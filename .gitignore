@@ -162,4 +162,3 @@ cython_debug/
 *.DS_Store
 
 myenv
-diabetes_dataset_with_notes.csv
